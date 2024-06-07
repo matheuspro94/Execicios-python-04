@@ -17,3 +17,7 @@ Formatar coluna “AVG” para 2 casas decimais depois da vírgula.
 Mostrar os top 10 usuários.
 Mostrar primeiros 100 usuários por nome decrescente.
 Salvar um novo CSV com a informação tratada.
+<<<<<<< HEAD
+=======
+
+>>>>>>> 9960976f03ad74a7f952a38ad6cfd2a484d81d0c
